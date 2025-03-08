@@ -1,0 +1,21 @@
+{
+
+    "bot_token": "",
+
+    "client_secret": "",
+
+    "client_id": "",
+
+    "redirect_url": "http://localhost:8080",
+
+    "authorized_user_ids": [],
+
+    "bot_activity": {
+
+      "type": "watching",
+
+      "name": "@mur9er on discord"
+
+  }
+
+}
