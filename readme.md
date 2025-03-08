@@ -19,6 +19,6 @@ A powerful OAuth2-based Discord bot that utilizes Nitro/Boost tokens to instantl
 4) Enjoy!!
 
 # ⭐ Credits
-Developed by:
+Developed by murder:
 - @mur9er (Discord)
 - @m_rder (Telegram)
