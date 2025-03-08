@@ -1,5 +1,5 @@
 # 🚀 Discord Boost Bot
-A powerful OAuth2-based Discord bot that utilizes Nitro/Boost tokens to instantly boost any server.
+A powerful OAuth2-based Discord boost bot that utilizes Nitro/Boost tokens to instantly boost any server.
 
 # 🛠️ Commands & Information
 ```
