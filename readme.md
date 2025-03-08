@@ -1,0 +1,24 @@
+# 🚀 Discord Boost Bot
+A powerful OAuth2-based Discord bot that utilizes Nitro/Boost tokens to instantly boost any server.
+
+# 🛠️ Commands & Information
+```
+/boost
+/stock
+/restock
+/send_tokens
+/get_order_id
+```
+
+# 📜 Setup Guide
+1) Install [Python 3.13](https://www.python.org/downloads/release/python-3132/).
+2) Edit config.json (Path: config/config.json)
+   - Make sure everything is correct.
+   - Never share your token with anyone!
+3) Run start.bat (or `pip install requirements.txt && python main.py` in terminal).
+4) Enjoy!!
+
+# ⭐ Credits
+Developed by:
+- @mur9er (Discord)
+- @m_rder (Telegram)
