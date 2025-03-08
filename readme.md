@@ -11,7 +11,7 @@ A powerful OAuth2-based Discord bot that utilizes Nitro/Boost tokens to instantl
 ```
 
 # 📜 Setup Guide
-1) Install [Python 3.13](https://www.python.org/downloads/release/python-3132/).
+1) Install [Python](https://www.python.org/downloads/) (Latest is suggested).
 2) Edit config.json (Path: config/config.json)
    - Make sure everything is correct.
    - Never share your token with anyone!
