@@ -294,7 +294,7 @@ async def boosts(interaction: discord.Interaction, guild_id: str, amount_of_boos
     success_tokens = []
     failed_tokens = []
 
-    for token in tokens[:tokens_needed]:  # Use only the required number of tokens
+    for token in tokens[:tokens_needed]:
         token = token.strip()
         if ":" in token:
             try:
