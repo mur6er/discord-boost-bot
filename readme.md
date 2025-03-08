@@ -15,7 +15,7 @@ A powerful OAuth2-based Discord boost bot that utilizes Nitro/Boost tokens to in
 2) Edit config.json (Path: config/config.json)
    - Make sure everything is correct.
    - Never share your token with anyone!
-3) Run start.bat (or `pip install requirements.txt && python main.py` in terminal).
+3) Run start.bat (or `pip install -r requirements.txt && python main.py` in terminal).
 4) Enjoy!!
 
 # ⭐ Credits
