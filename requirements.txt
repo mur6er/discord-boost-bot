@@ -1,0 +1,6 @@
+discord
+tls_client
+typing_extensions
+requests
+pystyle
+colorama
